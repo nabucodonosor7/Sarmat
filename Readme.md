@@ -1,0 +1,1 @@
+Este es un repositorio de codigo general, creado con la finalidad de general codigo estandar basico, intermedio para el desarrollo cotidiano, siguiendo buenas practicas al escribirlo optando por una orientacion modular y muy bien documentanda.
